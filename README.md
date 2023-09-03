@@ -1,4 +1,4 @@
-# TB-Detection
+# Website-Based User Interface Design by Implementing Convolutional Neural Network (CNN) Algorithms to Detect Tuberculosis Using Chest X-Ray Imagery
 ## Biomedical Project by Regan Agam
 ### Penjelasan Dataset
 Data sekunder yang digunakan pada penelitian ini diambil dari RSUP dr. Rivai Abdullah yang beralamat di Jl. Sungai Kundur, Sungai Kedukan, Kec. Banyuasin I, Kab. Banyuasin, Sumatera Selatan. Pengambilan data berupa citra chest X-ray penyakit tuberkulosis (TB), normal, dan covid-19 dengan jumlah 141 data normal, 149 data TB, dan 279 data covid-19, dimana data tersebut berasal dari warga Banyuasin dan sekitarnya. Selain data dari RSUP dr. Rivai Abdullah, data lainnya didapatkan dari Kaggle. Data yang didapatkan dari Kaggle untuk data tuberkulosis dan normal merupakan data gabungan yang berasal dari BELARUS TB portal program dataset, NLM, RSNA dengan jumlah 3500 data normal dan 700 data TB, dan juga dataset tuberkulosis dari Shenzen (China) dengan jumlah 662. Kemudian, dataset covid-19 yang juga didapatkan dari Kaggle merupakan data gabungan dari padchest dataset, Germany medical school, SIRM, dan GitHub dengan jumlah 3500 data covid-19.
